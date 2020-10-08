@@ -7,6 +7,7 @@ header: Source Sans Pro Bold
 header-strong: #FFFFFF, Source Sans Pro Bold
 quote: Source Sans Pro Italic
 footer-style: text-scale(1.5)
+footnote: text-scale(0.7)
 
 # Taking back
 # control of
@@ -61,23 +62,31 @@ footer-style: text-scale(1.5)
 
 ---
 
-# [Amazon workers are listening to what you tell Alexa (Bloomberg)](https://www.bloomberg.com/news/articles/2019-04-10/is-anyone-listening-to-you-on-alexa-a-global-team-reviews-audio)
+# Amazon workers are listening to what you tell Alexa[^1]
+
+[^1]: [https://www.bloomberg.com/news/articles/2019-04-10/is-anyone-listening-to-you-on-alexa-a-global-team-reviews-audio](https://www.bloomberg.com/news/articles/2019-04-10/is-anyone-listening-to-you-on-alexa-a-global-team-reviews-audio)
 
 ---
 
-# [Amazon confirms it retains your Alexa voice recordings indefinitely (TNW)](https://thenextweb.com/security/2019/07/03/amazon-confirms-it-retains-your-alexa-voice-recordings-indefinitely/)
+# Amazon confirms it retains your Alexa voice recordings indefinitely[^2]
+
+[^2]: [https://thenextweb.com/security/2019/07/03/amazon-confirms-it-retains-your-alexa-voice-recordings-indefinitely](https://thenextweb.com/security/2019/07/03/amazon-confirms-it-retains-your-alexa-voice-recordings-indefinitely)
 
 ---
 
-# [Judge orders Amazon to turn over Echo recordings (TechCrunch)](https://techcrunch.com/2018/11/14/amazon-echo-recordings-judge-murder-case/)
+# Judge orders Amazon to turn over Echo recordings[^3]
+
+[^3]: [https://techcrunch.com/2018/11/14/amazon-echo-recordings-judge-murder-case](https://techcrunch.com/2018/11/14/amazon-echo-recordings-judge-murder-case)
 
 ---
 
-# [Alexa, are you invading my privacy? The dark side of our voice assistants (The Guardian)](https://www.theguardian.com/technology/2019/oct/09/alexa-are-you-invading-my-privacy-the-dark-side-of-our-voice-assistants)
+# Alexa, are you invading my privacy? The dark side of our voice assistants[^4]
+
+[^4]: [https://www.theguardian.com/technology/2019/oct/09/alexa-are-you-invading-my-privacy-the-dark-side-of-our-voice-assistants](https://www.theguardian.com/technology/2019/oct/09/alexa-are-you-invading-my-privacy-the-dark-side-of-our-voice-assistants)
 
 ---
 
-# [Alexa, are you invading my privacy? The dark side of our voice assistants (The Guardian)](https://www.theguardian.com/technology/2019/oct/09/alexa-are-you-invading-my-privacy-the-dark-side-of-our-voice-assistants)
+# Alexa, are you invading my privacy? The dark side of our voice assistants
 
 > “I felt a bit foolish,” he says. “Having worked at Amazon, and having seen how they used people’s data, I knew I couldn’t trust them.”
 
@@ -111,11 +120,13 @@ footer-style: text-scale(1.5)
 
 ---
 
-# [Doorbell-camera firm Ring has partnered with 400 police forces, extending surveillance concerns (The Washington Post)](https://www.washingtonpost.com/technology/2019/08/28/doorbell-camera-firm-ring-has-partnered-with-police-forces-extending-surveillance-reach)
+# Doorbell-camera firm Ring has partnered with 400 police forces, extending surveillance concerns[^5]
+
+[^5]: [https://www.washingtonpost.com/technology/2019/08/28/doorbell-camera-firm-ring-has-partnered-with-police-forces-extending-surveillance-reach](https://www.washingtonpost.com/technology/2019/08/28/doorbell-camera-firm-ring-has-partnered-with-police-forces-extending-surveillance-reach)
 
 ---
 
-# [Doorbell-camera firm Ring has partnered with 400 police forces, extending surveillance concerns (The Washington Post)](https://www.washingtonpost.com/technology/2019/08/28/doorbell-camera-firm-ring-has-partnered-with-police-forces-extending-surveillance-reach)
+# Doorbell-camera firm Ring has partnered with 400 police forces, extending surveillance concerns
 
 > Ring is owned by Amazon, which bought the firm last year for more than $800 million, financial filings show. Amazon founder Jeff Bezos owns The Washington Post.
 
@@ -134,16 +145,34 @@ footer-style: text-scale(1.5)
 1. As a user of a smart device, you have literally no control over what it does.
 2. No matter how well intentioned you think the maker is.
 3. One day they will get acquired.
-4. If you're lucky, all your data will be sold.
-4. If you're unlucky, your device will be bricked.
+    1. If you're lucky, all your data will be sold.
+    2. If you're unlucky, your device will be bricked.
 
 ---
 
-# [Snips, privacy-by-default voice technology, acquired by Sonos](https://investors.sonos.com/news-and-events/investor-news/latest-news/2019/Sonos-Announces-Acquisition-of-Snips/default.aspx)
+# Snips, privacy-by-default voice technology, acquired by Sonos[^6]
+
+[^6]: [https://investors.sonos.com/news-and-events/investor-news/latest-news/2019/Sonos-Announces-Acquisition-of-Snips/default.aspx](https://investors.sonos.com/news-and-events/investor-news/latest-news/2019/Sonos-Announces-Acquisition-of-Snips/default.aspx)
 
 ---
 
-# [Revolv devices bricked as Google's Nest shuts down smart home company](https://www.theguardian.com/technology/2016/apr/05/revolv-devices-bricked-google-nest-smart-home)
+# Revolv devices bricked as Google's Nest shuts down smart home company[^7]
+
+[^7]: [https://www.theguardian.com/technology/2016/apr/05/revolv-devices-bricked-google-nest-smart-home](https://www.theguardian.com/technology/2016/apr/05/revolv-devices-bricked-google-nest-smart-home)
+
+---
+
+# Why do we buy smart devices?
+
+- They look cool
+- They fix minor annoyances
+- They're internet connected
+
+---
+
+# We are trading our privacy and our lives to know what's the weather like in Glasgow[^**]
+
+[^**]: It's raining.
 
 ---
 
@@ -151,13 +180,13 @@ footer-style: text-scale(1.5)
 
 ---
 
-[.header: text-scale(10.0)]
-
-# DIY
+# [fit] DIY
 
 ---
 
-# The only way trust a smart device is to know exactly what it does.
+# The only way trust a smart device is to know exactly what it does.[^*]
+
+[^*]: Limitations apply
 
 ---
 
@@ -179,6 +208,11 @@ footer-style: text-scale(1.5)
 
 > Any sufficiently advanced technology is indistinguishable from magic.
 -- Arthur C. Clarke
+
+---
+
+[.background-color: #FFFFFF]
+![fit](./can-do.jpg)
 
 ---
 
@@ -209,7 +243,7 @@ footer-style: text-scale(1.5)
 
 ---
 
-# But.. What if I built a machine which tells me when the coffee is ready?
+# But.. What if I built a machine which can tell me when the coffee is ready?
 
 ---
 
@@ -228,6 +262,7 @@ footer-style: text-scale(1.5)
 # Thank you! 🙏
 
 🦜 [@arkh4m](https://twitter.com/arkh4m)
+🗣 [github.com/Arkham/tbcofylwn](https://github.com/Arkham/tbcofylwn)
 ☕️ [github.com/Arkham/mokay](https://github.com/Arkham/mokay)
 🤖 [github.com/Arkham/tee\_eff\_elle](https://github.com/Arkham/tee_eff_elle)
 
@@ -235,5 +270,5 @@ footer-style: text-scale(1.5)
 
 # References
 
-[Nerves Getting Started](https://hexdocs.pm/nerves/getting-started.html)
-[NervesHub Setup](https://docs.nerves-hub.org/nerves-hub/setup)
+- [Nerves Getting Started](https://hexdocs.pm/nerves/getting-started.html)
+- [NervesHub Setup](https://docs.nerves-hub.org/nerves-hub/setup)
